@@ -1,0 +1,16 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png\" data-canonical-src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png\" width=\"200\"/>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "kss": "^3.0.0",
+    "michelangelo": "^0.8.0"
+  },
+  "scripts": {
+    "kss": "kss --config kss-config.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

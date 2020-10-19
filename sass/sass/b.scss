@@ -1,0 +1,13 @@
+// Bold Button
+//
+// Use this class for a bolder, stronger looking button.
+//
+// Markup:
+// <button class="btn btn-bold">Click Me</button>
+//
+// Styleguide Components.Buttons.bold
+.btn.btn-bold {
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+}
